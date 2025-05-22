@@ -1625,7 +1625,7 @@ def export_overview_graphs(job_clicks, geo_clicks, age_clicks, job_fig, geo_fig,
     return dash.no_update
 
 
-
+server=app
 
 if __name__ == '__main__':
     app.run(debug=True)
