@@ -36,6 +36,8 @@ CREDENTIALS_FILE = 'users.csv'
 DATA_FILE = r'C:\Users\FBDA21-023\Downloads\sales_data.csv' 
 EXPORT_PATH = r'C:\Users\FBDA21-023\OneDrive - Botswana Accountancy College\Downloads'
 
+DATA_FILE = 'sales_data.csv'
+
 def load_sales_data():
     try:
         # Read the CSV file directly into a DataFrame
@@ -55,7 +57,7 @@ def load_sales_data():
         return df
     except Exception as e:
         print(f"Error loading data: {e}")
-        return pd.DataFrame()  # Fallback empty dataframe
+        return pd.DataFrame(columns=['date', 'value', 'job_type', 'continent', 'country', 'age_group'])
 
 # Load the cleaned data
 df = load_sales_data()

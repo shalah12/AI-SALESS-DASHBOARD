@@ -1,0 +1,1001 @@
+job_type,metric,chart_type,date,age_group,value,continent,country
+Software Developer,Promo Event,Pie,01/01/2024,46-60,575,Africa,Morocco
+Data Analyst,Jobs Placed,Pie,02/01/2024,36-45,262,Europe,Sweden
+Software Developer,Promo Event,Pie,03/01/2024,36-45,916,Africa,Nigeria
+Computer Engineer,Promo Event,Line,04/01/2024,18-25,235,North America,Panama
+Data Scientist,Promo Event,Pie,05/01/2024,26-35,977,Europe,Netherlands
+Data Analyst,Demo,Line,06/01/2024,36-45,914,Africa,South Africa
+Data Analyst,Demo,Pie,07/01/2024,46-60,310,Africa,Tanzania
+Data Scientist,AI Assistant,Bar,08/01/2024,60+,951,North America,Canada
+Computer Engineer,Jobs Placed,Line,09/01/2024,60+,330,Europe,Poland
+Data Scientist,Demo,Line,10/01/2024,46-60,449,North America,Mexico
+Data Scientist,Jobs Placed,Bar,11/01/2024,46-60,829,Asia,Japan
+Data Scientist,Promo Event,Line,12/01/2024,26-35,577,South America,Ecuador
+Data Analyst,Jobs Placed,Pie,13/01/2024,60+,677,Europe,Poland
+Computer Engineer,Promo Event,Pie,14/01/2024,18-25,405,North America,Panama
+Data Scientist,AI Assistant,Bar,15/01/2024,36-45,483,Asia,Malaysia
+Data Scientist,Demo,Bar,16/01/2024,46-60,477,Africa,Egypt
+Data Analyst,Promo Event,Line,17/01/2024,26-35,871,Europe,UK
+Computer Engineer,Jobs Placed,Pie,18/01/2024,26-35,316,Africa,Egypt
+Data Analyst,Promo Event,Bar,19/01/2024,60+,211,Asia,Indonesia
+Data Scientist,Demo,Line,20/01/2024,36-45,683,Europe,Poland
+Computer Engineer,Demo,Bar,21/01/2024,60+,938,Oceania,Samoa
+Computer Engineer,Demo,Bar,22/01/2024,36-45,597,Oceania,Australia
+Data Scientist,Jobs Placed,Bar,23/01/2024,36-45,401,Europe,Norway
+Data Analyst,Jobs Placed,Bar,24/01/2024,26-35,118,Oceania,Vanuatu
+Software Developer,AI Assistant,Bar,25/01/2024,36-45,589,Europe,Poland
+Data Analyst,Jobs Placed,Line,26/01/2024,18-25,450,South America,Venezuela
+Software Developer,AI Assistant,Line,27/01/2024,26-35,373,South America,Ecuador
+Data Scientist,Promo Event,Bar,28/01/2024,36-45,858,South America,Uruguay
+Data Scientist,Demo,Pie,29/01/2024,18-25,479,Africa,Ethiopia
+Computer Engineer,Demo,Bar,30/01/2024,26-35,943,North America,Mexico
+Software Developer,Jobs Placed,Bar,31/01/2024,26-35,679,South America,Colombia
+Computer Engineer,AI Assistant,Pie,01/02/2024,46-60,278,South America,Ecuador
+Software Developer,Promo Event,Bar,02/02/2024,60+,942,South America,Colombia
+Software Developer,AI Assistant,Line,03/02/2024,46-60,122,North America,Honduras
+Software Developer,Jobs Placed,Line,04/02/2024,26-35,598,Asia,Malaysia
+Computer Engineer,Promo Event,Pie,05/02/2024,18-25,168,North America,Mexico
+Data Analyst,Demo,Pie,06/02/2024,36-45,515,North America,Jamaica
+Computer Engineer,Jobs Placed,Bar,07/02/2024,18-25,993,North America,Panama
+Computer Engineer,AI Assistant,Line,08/02/2024,26-35,319,Africa,Morocco
+Software Developer,Promo Event,Bar,09/02/2024,60+,965,North America,Panama
+Computer Engineer,AI Assistant,Bar,10/02/2024,60+,632,Europe,Poland
+Data Scientist,Promo Event,Line,11/02/2024,60+,808,Europe,Netherlands
+Computer Engineer,AI Assistant,Bar,12/02/2024,60+,540,Oceania,Micronesia
+Data Scientist,Jobs Placed,Bar,13/02/2024,18-25,943,Africa,Egypt
+Data Analyst,Promo Event,Pie,14/02/2024,36-45,497,Oceania,Australia
+Computer Engineer,Demo,Line,15/02/2024,46-60,429,Europe,UK
+Data Scientist,Demo,Bar,16/02/2024,18-25,219,Oceania,Micronesia
+Data Analyst,AI Assistant,Pie,17/02/2024,60+,566,Europe,Italy
+Data Analyst,Promo Event,Pie,18/02/2024,26-35,404,North America,Canada
+Software Developer,Promo Event,Pie,19/02/2024,36-45,773,North America,Costa Rica
+Software Developer,Demo,Line,20/02/2024,60+,142,Asia,Vietnam
+Data Scientist,Demo,Bar,21/02/2024,46-60,303,Oceania,Micronesia
+Data Analyst,Promo Event,Pie,22/02/2024,18-25,174,Oceania,New Zealand
+Computer Engineer,Jobs Placed,Bar,23/02/2024,26-35,592,Asia,India
+Data Analyst,AI Assistant,Bar,24/02/2024,26-35,455,Europe,Sweden
+Data Scientist,Jobs Placed,Line,25/02/2024,26-35,522,Asia,Vietnam
+Data Analyst,AI Assistant,Pie,26/02/2024,60+,185,Africa,South Africa
+Data Scientist,AI Assistant,Bar,27/02/2024,18-25,873,Oceania,Tonga
+Data Analyst,Demo,Pie,28/02/2024,60+,891,Europe,Poland
+Computer Engineer,Promo Event,Line,29/02/2024,60+,718,Oceania,Tonga
+Data Analyst,Jobs Placed,Bar,01/03/2024,60+,863,Oceania,Fiji
+Data Scientist,Jobs Placed,Bar,02/03/2024,60+,303,North America,Canada
+Data Analyst,Demo,Line,03/03/2024,18-25,566,Europe,Spain
+Data Analyst,Jobs Placed,Line,04/03/2024,36-45,215,Africa,Egypt
+Software Developer,Jobs Placed,Line,05/03/2024,46-60,415,North America,Cuba
+Data Scientist,Jobs Placed,Line,06/03/2024,26-35,311,South America,Colombia
+Computer Engineer,Demo,Bar,07/03/2024,60+,524,South America,Colombia
+Data Analyst,AI Assistant,Line,08/03/2024,60+,534,North America,Honduras
+Software Developer,Promo Event,Line,09/03/2024,26-35,564,Africa,Morocco
+Computer Engineer,Jobs Placed,Line,10/03/2024,18-25,611,Oceania,Samoa
+Data Analyst,Promo Event,Bar,11/03/2024,26-35,310,South America,Argentina
+Data Scientist,Demo,Line,12/03/2024,60+,105,South America,Colombia
+Software Developer,Jobs Placed,Pie,13/03/2024,26-35,305,Oceania,Kiribati
+Data Analyst,Jobs Placed,Bar,14/03/2024,46-60,383,Europe,Spain
+Data Scientist,Jobs Placed,Line,15/03/2024,26-35,241,Asia,Thailand
+Computer Engineer,Demo,Pie,16/03/2024,46-60,172,Oceania,Samoa
+Software Developer,Demo,Line,17/03/2024,46-60,200,South America,Colombia
+Computer Engineer,Demo,Pie,18/03/2024,46-60,705,North America,Canada
+Data Scientist,AI Assistant,Pie,19/03/2024,36-45,457,North America,Panama
+Data Scientist,Demo,Pie,20/03/2024,46-60,595,Europe,Germany
+Data Scientist,Promo Event,Line,21/03/2024,46-60,275,North America,Guatemala
+Software Developer,AI Assistant,Bar,22/03/2024,60+,958,Africa,Ghana
+Computer Engineer,Jobs Placed,Bar,23/03/2024,18-25,792,Europe,UK
+Data Scientist,Promo Event,Bar,24/03/2024,60+,260,Europe,Netherlands
+Data Scientist,Promo Event,Pie,25/03/2024,18-25,722,Oceania,Fiji
+Data Scientist,Demo,Pie,26/03/2024,18-25,613,North America,Jamaica
+Data Analyst,AI Assistant,Bar,27/03/2024,46-60,681,Europe,Netherlands
+Data Scientist,Promo Event,Bar,28/03/2024,18-25,108,North America,Guatemala
+Data Analyst,AI Assistant,Pie,29/03/2024,36-45,170,Asia,Thailand
+Software Developer,Jobs Placed,Line,30/03/2024,36-45,408,Europe,Germany
+Data Scientist,AI Assistant,Line,31/03/2024,46-60,497,Oceania,Tonga
+Data Analyst,Demo,Pie,01/04/2024,18-25,397,Asia,Philippines
+Data Scientist,Promo Event,Line,02/04/2024,36-45,940,North America,Guatemala
+Computer Engineer,Jobs Placed,Pie,03/04/2024,26-35,174,North America,Haiti
+Software Developer,Jobs Placed,Pie,04/04/2024,26-35,171,Europe,Sweden
+Data Scientist,Promo Event,Bar,05/04/2024,18-25,158,South America,Bolivia
+Data Analyst,Demo,Bar,06/04/2024,60+,617,Africa,Ethiopia
+Software Developer,AI Assistant,Line,07/04/2024,46-60,117,Europe,France
+Data Analyst,Promo Event,Bar,08/04/2024,18-25,426,Asia,Thailand
+Software Developer,Promo Event,Pie,09/04/2024,36-45,565,Europe,Netherlands
+Computer Engineer,AI Assistant,Line,10/04/2024,46-60,994,Asia,Japan
+Data Analyst,Demo,Pie,11/04/2024,36-45,585,Asia,China
+Computer Engineer,AI Assistant,Pie,12/04/2024,18-25,299,North America,Haiti
+Software Developer,Promo Event,Bar,13/04/2024,26-35,633,North America,Mexico
+Software Developer,Promo Event,Bar,14/04/2024,36-45,128,Asia,Vietnam
+Computer Engineer,Demo,Bar,15/04/2024,18-25,676,South America,Bolivia
+Data Scientist,Promo Event,Bar,16/04/2024,60+,246,Asia,Thailand
+Data Scientist,Jobs Placed,Pie,17/04/2024,60+,803,Oceania,Papua New Guinea
+Data Analyst,Jobs Placed,Line,18/04/2024,18-25,532,Europe,Poland
+Data Analyst,Jobs Placed,Pie,19/04/2024,26-35,124,Europe,UK
+Computer Engineer,Promo Event,Pie,20/04/2024,36-45,642,Europe,Germany
+Data Scientist,AI Assistant,Line,21/04/2024,36-45,570,Africa,Tanzania
+Software Developer,AI Assistant,Bar,22/04/2024,18-25,424,Africa,Ethiopia
+Computer Engineer,Promo Event,Line,23/04/2024,26-35,479,Asia,Malaysia
+Software Developer,Promo Event,Line,24/04/2024,18-25,578,Oceania,Vanuatu
+Software Developer,AI Assistant,Bar,25/04/2024,60+,490,South America,Chile
+Software Developer,Promo Event,Line,26/04/2024,36-45,146,Europe,Germany
+Software Developer,AI Assistant,Line,27/04/2024,60+,780,South America,Bolivia
+Software Developer,Promo Event,Bar,28/04/2024,60+,886,Africa,Morocco
+Data Scientist,Demo,Bar,29/04/2024,60+,150,North America,USA
+Software Developer,Jobs Placed,Pie,30/04/2024,46-60,634,Asia,India
+Data Analyst,Promo Event,Pie,01/05/2024,60+,189,South America,Argentina
+Software Developer,Jobs Placed,Pie,02/05/2024,46-60,287,Europe,UK
+Data Analyst,Jobs Placed,Line,03/05/2024,36-45,256,Asia,India
+Data Scientist,Promo Event,Pie,04/05/2024,36-45,719,Africa,South Africa
+Data Scientist,Promo Event,Pie,05/05/2024,18-25,824,Europe,Sweden
+Software Developer,Demo,Bar,06/05/2024,36-45,253,North America,Panama
+Data Analyst,Promo Event,Pie,07/05/2024,46-60,476,North America,Guatemala
+Computer Engineer,Promo Event,Pie,08/05/2024,60+,322,South America,Argentina
+Computer Engineer,AI Assistant,Line,09/05/2024,26-35,978,Asia,Malaysia
+Computer Engineer,Promo Event,Line,10/05/2024,60+,703,Africa,Egypt
+Data Analyst,Jobs Placed,Bar,11/05/2024,26-35,543,Asia,Malaysia
+Data Analyst,Jobs Placed,Bar,12/05/2024,46-60,798,Africa,Algeria
+Data Scientist,Promo Event,Bar,13/05/2024,18-25,200,Asia,Vietnam
+Data Analyst,Promo Event,Pie,14/05/2024,18-25,489,Oceania,Fiji
+Computer Engineer,Demo,Line,15/05/2024,46-60,549,Asia,Vietnam
+Data Scientist,Demo,Bar,16/05/2024,46-60,399,Africa,Egypt
+Software Developer,Promo Event,Pie,17/05/2024,46-60,897,Africa,Kenya
+Data Scientist,Jobs Placed,Line,18/05/2024,36-45,177,Europe,Spain
+Data Analyst,Demo,Bar,19/05/2024,60+,258,South America,Chile
+Software Developer,Jobs Placed,Bar,20/05/2024,18-25,430,Africa,Nigeria
+Computer Engineer,Demo,Bar,21/05/2024,60+,211,Oceania,New Zealand
+Data Scientist,Jobs Placed,Bar,22/05/2024,36-45,944,Oceania,Tonga
+Software Developer,AI Assistant,Bar,23/05/2024,36-45,103,North America,Panama
+Software Developer,Jobs Placed,Bar,24/05/2024,46-60,482,Oceania,Tonga
+Computer Engineer,AI Assistant,Bar,25/05/2024,36-45,270,Oceania,Kiribati
+Data Analyst,Demo,Line,26/05/2024,46-60,491,Oceania,Vanuatu
+Computer Engineer,Promo Event,Line,27/05/2024,26-35,982,Asia,Vietnam
+Computer Engineer,Jobs Placed,Pie,28/05/2024,60+,955,Asia,Japan
+Computer Engineer,Jobs Placed,Line,29/05/2024,26-35,483,Europe,Norway
+Data Scientist,Promo Event,Pie,30/05/2024,60+,976,Asia,China
+Software Developer,Promo Event,Pie,31/05/2024,26-35,707,Europe,Spain
+Data Scientist,Jobs Placed,Pie,01/06/2024,60+,344,Europe,Sweden
+Data Analyst,Jobs Placed,Line,02/06/2024,36-45,115,Oceania,Micronesia
+Computer Engineer,Jobs Placed,Pie,03/06/2024,18-25,414,North America,Cuba
+Computer Engineer,Jobs Placed,Pie,04/06/2024,60+,448,Oceania,Solomon Islands
+Data Scientist,Promo Event,Line,05/06/2024,36-45,417,North America,USA
+Data Analyst,Demo,Pie,06/06/2024,18-25,878,North America,Cuba
+Data Scientist,Demo,Pie,07/06/2024,18-25,876,Asia,Indonesia
+Data Analyst,AI Assistant,Line,08/06/2024,36-45,130,South America,Argentina
+Computer Engineer,Demo,Line,09/06/2024,36-45,565,Oceania,Tonga
+Data Analyst,Demo,Bar,10/06/2024,46-60,635,Asia,Philippines
+Computer Engineer,Jobs Placed,Line,11/06/2024,60+,625,Asia,Thailand
+Data Scientist,Demo,Bar,12/06/2024,46-60,817,Asia,China
+Computer Engineer,Demo,Bar,13/06/2024,18-25,190,South America,Ecuador
+Computer Engineer,Demo,Bar,14/06/2024,18-25,446,South America,Bolivia
+Software Developer,AI Assistant,Pie,15/06/2024,46-60,228,Africa,Ethiopia
+Data Scientist,Demo,Pie,16/06/2024,36-45,275,Africa,Nigeria
+Computer Engineer,Demo,Line,17/06/2024,36-45,778,Oceania,Papua New Guinea
+Computer Engineer,Jobs Placed,Line,18/06/2024,26-35,514,South America,Venezuela
+Software Developer,Promo Event,Bar,19/06/2024,60+,121,Oceania,New Zealand
+Data Scientist,Jobs Placed,Pie,20/06/2024,60+,809,Asia,India
+Data Analyst,Demo,Pie,21/06/2024,26-35,528,North America,Honduras
+Software Developer,Demo,Bar,22/06/2024,26-35,826,Africa,Morocco
+Data Analyst,Demo,Bar,23/06/2024,46-60,205,Africa,Morocco
+Data Scientist,Promo Event,Pie,24/06/2024,60+,251,Asia,India
+Computer Engineer,AI Assistant,Pie,25/06/2024,46-60,949,North America,Panama
+Computer Engineer,AI Assistant,Line,26/06/2024,26-35,341,Asia,Malaysia
+Computer Engineer,Promo Event,Bar,27/06/2024,46-60,647,Europe,Norway
+Data Scientist,Demo,Line,28/06/2024,46-60,156,Asia,South Korea
+Data Analyst,Promo Event,Pie,29/06/2024,26-35,361,Africa,South Africa
+Software Developer,AI Assistant,Line,30/06/2024,46-60,212,Oceania,Tonga
+Data Analyst,Jobs Placed,Bar,01/07/2024,36-45,730,North America,Guatemala
+Data Analyst,Demo,Line,02/07/2024,18-25,837,Oceania,Samoa
+Computer Engineer,Promo Event,Line,03/07/2024,36-45,684,Africa,Algeria
+Data Scientist,AI Assistant,Bar,04/07/2024,36-45,429,South America,Venezuela
+Software Developer,Promo Event,Pie,05/07/2024,46-60,213,Europe,France
+Software Developer,Jobs Placed,Line,06/07/2024,36-45,222,Europe,Norway
+Computer Engineer,Promo Event,Line,07/07/2024,60+,665,Oceania,Vanuatu
+Software Developer,AI Assistant,Bar,08/07/2024,26-35,365,Europe,France
+Data Analyst,Demo,Pie,09/07/2024,36-45,503,South America,Bolivia
+Data Analyst,Jobs Placed,Pie,10/07/2024,26-35,687,Oceania,Tonga
+Data Scientist,AI Assistant,Line,11/07/2024,36-45,401,Oceania,New Zealand
+Data Analyst,Promo Event,Bar,12/07/2024,18-25,397,Africa,Morocco
+Data Scientist,Jobs Placed,Pie,13/07/2024,26-35,874,Asia,Indonesia
+Data Scientist,Demo,Pie,14/07/2024,26-35,841,North America,Canada
+Data Analyst,Demo,Bar,15/07/2024,60+,366,Asia,Japan
+Data Scientist,Jobs Placed,Bar,16/07/2024,26-35,733,Asia,Malaysia
+Data Analyst,Jobs Placed,Line,17/07/2024,36-45,651,Europe,Sweden
+Data Scientist,Jobs Placed,Pie,18/07/2024,26-35,623,South America,Venezuela
+Computer Engineer,AI Assistant,Bar,19/07/2024,46-60,743,Oceania,Australia
+Data Scientist,Promo Event,Bar,20/07/2024,60+,669,North America,Honduras
+Computer Engineer,Jobs Placed,Pie,21/07/2024,26-35,418,North America,USA
+Data Analyst,Promo Event,Line,22/07/2024,26-35,624,Europe,France
+Software Developer,Demo,Line,23/07/2024,36-45,961,Europe,Germany
+Computer Engineer,Demo,Pie,24/07/2024,26-35,916,Oceania,Tonga
+Data Scientist,Jobs Placed,Pie,25/07/2024,36-45,712,Asia,China
+Software Developer,Jobs Placed,Bar,26/07/2024,18-25,778,Europe,France
+Computer Engineer,Demo,Bar,27/07/2024,26-35,814,South America,Peru
+Computer Engineer,AI Assistant,Pie,28/07/2024,26-35,734,Asia,Malaysia
+Data Analyst,Demo,Line,29/07/2024,60+,456,South America,Colombia
+Software Developer,Jobs Placed,Pie,30/07/2024,46-60,899,North America,Haiti
+Data Analyst,Promo Event,Pie,31/07/2024,26-35,187,Oceania,Tonga
+Data Scientist,Promo Event,Bar,01/08/2024,60+,473,Asia,China
+Software Developer,AI Assistant,Pie,02/08/2024,60+,939,North America,Costa Rica
+Software Developer,AI Assistant,Pie,03/08/2024,18-25,516,Oceania,Tonga
+Computer Engineer,Promo Event,Line,04/08/2024,60+,569,Africa,Ethiopia
+Computer Engineer,Jobs Placed,Pie,05/08/2024,26-35,929,Africa,South Africa
+Computer Engineer,Jobs Placed,Pie,06/08/2024,36-45,586,Asia,South Korea
+Computer Engineer,AI Assistant,Line,07/08/2024,26-35,699,Asia,China
+Data Analyst,Demo,Pie,08/08/2024,60+,468,South America,Venezuela
+Computer Engineer,Demo,Bar,09/08/2024,18-25,310,Asia,China
+Data Analyst,Demo,Pie,10/08/2024,36-45,221,Europe,UK
+Data Analyst,AI Assistant,Pie,11/08/2024,60+,856,Oceania,Papua New Guinea
+Computer Engineer,Promo Event,Line,12/08/2024,60+,698,Europe,Sweden
+Computer Engineer,Promo Event,Pie,13/08/2024,36-45,814,Europe,Poland
+Computer Engineer,Demo,Pie,14/08/2024,36-45,114,Oceania,Papua New Guinea
+Software Developer,Jobs Placed,Line,15/08/2024,60+,999,Oceania,Samoa
+Data Analyst,Demo,Line,16/08/2024,36-45,579,Asia,South Korea
+Computer Engineer,AI Assistant,Pie,17/08/2024,46-60,847,North America,Cuba
+Computer Engineer,AI Assistant,Line,18/08/2024,26-35,925,South America,Peru
+Software Developer,Demo,Pie,19/08/2024,36-45,709,North America,Jamaica
+Computer Engineer,Demo,Pie,20/08/2024,46-60,987,Europe,Norway
+Data Analyst,AI Assistant,Pie,21/08/2024,60+,903,Oceania,Solomon Islands
+Software Developer,Demo,Line,22/08/2024,26-35,861,Africa,Algeria
+Data Analyst,Jobs Placed,Pie,23/08/2024,46-60,227,South America,Paraguay
+Software Developer,AI Assistant,Bar,24/08/2024,46-60,165,Africa,Ghana
+Software Developer,Jobs Placed,Pie,25/08/2024,26-35,460,Europe,Belgium
+Data Analyst,Demo,Pie,26/08/2024,60+,664,Oceania,Papua New Guinea
+Data Scientist,Promo Event,Line,27/08/2024,18-25,651,Europe,Belgium
+Data Scientist,Promo Event,Bar,28/08/2024,26-35,759,Oceania,Kiribati
+Data Scientist,Promo Event,Line,29/08/2024,36-45,389,Asia,Malaysia
+Data Scientist,Demo,Bar,30/08/2024,36-45,705,North America,Cuba
+Computer Engineer,Demo,Pie,31/08/2024,60+,650,Oceania,Fiji
+Computer Engineer,Promo Event,Bar,01/09/2024,36-45,895,Africa,Tanzania
+Software Developer,Promo Event,Line,02/09/2024,60+,618,North America,Jamaica
+Data Scientist,Promo Event,Bar,03/09/2024,26-35,775,South America,Colombia
+Software Developer,AI Assistant,Bar,04/09/2024,18-25,604,South America,Venezuela
+Data Analyst,Promo Event,Pie,05/09/2024,60+,533,Oceania,Tonga
+Data Scientist,AI Assistant,Pie,06/09/2024,26-35,115,Europe,UK
+Software Developer,Jobs Placed,Pie,07/09/2024,36-45,465,Europe,Spain
+Data Analyst,Jobs Placed,Pie,08/09/2024,60+,826,Europe,Netherlands
+Computer Engineer,Jobs Placed,Line,09/09/2024,46-60,710,Europe,Sweden
+Software Developer,Promo Event,Bar,10/09/2024,26-35,365,North America,Haiti
+Data Analyst,Promo Event,Line,11/09/2024,26-35,874,Asia,India
+Software Developer,Demo,Pie,12/09/2024,18-25,589,South America,Venezuela
+Data Analyst,AI Assistant,Pie,13/09/2024,36-45,879,North America,Mexico
+Computer Engineer,Demo,Bar,14/09/2024,36-45,648,Europe,Spain
+Computer Engineer,AI Assistant,Bar,15/09/2024,18-25,412,Oceania,Tonga
+Computer Engineer,AI Assistant,Pie,16/09/2024,26-35,144,Asia,Indonesia
+Computer Engineer,Promo Event,Pie,17/09/2024,18-25,214,Europe,Netherlands
+Data Analyst,Promo Event,Line,18/09/2024,18-25,996,South America,Chile
+Data Analyst,Demo,Bar,19/09/2024,18-25,103,Europe,Poland
+Software Developer,Jobs Placed,Pie,20/09/2024,36-45,118,South America,Bolivia
+Computer Engineer,Demo,Bar,21/09/2024,26-35,536,Africa,Algeria
+Data Scientist,Demo,Bar,22/09/2024,18-25,769,South America,Uruguay
+Data Scientist,AI Assistant,Pie,23/09/2024,36-45,771,Oceania,Kiribati
+Data Analyst,AI Assistant,Line,24/09/2024,36-45,605,North America,Jamaica
+Data Analyst,Promo Event,Pie,25/09/2024,26-35,732,South America,Argentina
+Data Analyst,AI Assistant,Line,26/09/2024,60+,370,South America,Bolivia
+Data Analyst,Demo,Pie,27/09/2024,36-45,928,Oceania,Micronesia
+Data Analyst,Demo,Line,28/09/2024,36-45,594,Europe,Spain
+Data Analyst,Demo,Bar,29/09/2024,26-35,733,Oceania,Kiribati
+Computer Engineer,Promo Event,Bar,30/09/2024,60+,264,South America,Ecuador
+Data Analyst,AI Assistant,Pie,01/10/2024,26-35,585,North America,Panama
+Software Developer,Jobs Placed,Line,02/10/2024,60+,398,North America,USA
+Software Developer,Promo Event,Line,03/10/2024,26-35,927,Oceania,Tonga
+Software Developer,Promo Event,Pie,04/10/2024,36-45,160,South America,Chile
+Computer Engineer,AI Assistant,Pie,05/10/2024,46-60,926,Oceania,Micronesia
+Data Analyst,Promo Event,Bar,06/10/2024,18-25,308,Asia,China
+Data Analyst,Demo,Bar,07/10/2024,26-35,930,Oceania,New Zealand
+Software Developer,AI Assistant,Line,08/10/2024,36-45,483,Africa,Kenya
+Data Analyst,AI Assistant,Line,09/10/2024,18-25,208,South America,Argentina
+Data Scientist,Jobs Placed,Pie,10/10/2024,60+,507,North America,Canada
+Data Scientist,Demo,Line,11/10/2024,18-25,155,North America,Cuba
+Software Developer,Jobs Placed,Line,12/10/2024,36-45,881,North America,Costa Rica
+Computer Engineer,Demo,Line,13/10/2024,26-35,271,Asia,Malaysia
+Data Scientist,Demo,Line,14/10/2024,60+,750,Asia,India
+Data Analyst,Promo Event,Line,15/10/2024,36-45,949,Oceania,Solomon Islands
+Computer Engineer,AI Assistant,Pie,16/10/2024,36-45,990,Europe,Italy
+Computer Engineer,AI Assistant,Line,17/10/2024,46-60,864,North America,Honduras
+Computer Engineer,Promo Event,Bar,18/10/2024,26-35,418,Asia,Philippines
+Data Analyst,Promo Event,Pie,19/10/2024,36-45,828,Asia,India
+Computer Engineer,Promo Event,Pie,20/10/2024,18-25,374,Oceania,Tonga
+Data Analyst,Jobs Placed,Bar,21/10/2024,36-45,481,Europe,Germany
+Software Developer,Demo,Bar,22/10/2024,26-35,562,Oceania,Micronesia
+Computer Engineer,Jobs Placed,Pie,23/10/2024,60+,157,South America,Argentina
+Software Developer,Jobs Placed,Pie,24/10/2024,60+,232,Africa,Tanzania
+Data Scientist,Promo Event,Pie,25/10/2024,46-60,936,Asia,Vietnam
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
