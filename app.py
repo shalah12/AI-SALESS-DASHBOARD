@@ -23,12 +23,14 @@ bcrypt = Bcrypt(app)
 if 'dash_app' not in app.extensions:
     dash_app = Dash(
         __name__,
-        server=app,
+        server=app,  # This connects Dash to your Flask app
         url_base_pathname='/dashboard/',
         suppress_callback_exceptions=True
     )
-    app.extensions['dash_app'] = dash_app  # Store the instance in app's extensions
-
+    app.extensions['dash_app'] = dash_app
+    
+    # This is the critical line that fixes the error:
+    app.server = app  # Makes the Flask app properly expose the server interface
 
 CREDENTIALS_FILE = 'users.csv'
 DATA_FILE = r'C:\Users\FBDA21-023\Downloads\sales_data.csv' 
@@ -1625,8 +1627,8 @@ def export_overview_graphs(job_clicks, geo_clicks, age_clicks, job_fig, geo_fig,
     return dash.no_update
 
 
-server = app.server
 
 
 if __name__ == '__main__':
     app.run(debug=True)
+server = app.server
